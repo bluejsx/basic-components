@@ -1,0 +1,33 @@
+{
+    "name": "@bluejsx/components",
+    "description": "BlueJSX Basic Components",
+    "version": "0.1.2",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/bluejsx/basic-components.git"
+    },
+    "type": "module",
+    "scripts": {
+    },
+    "publishConfig": {
+      "registry": "https://registry.npmjs.org/"
+    },
+    "main": "./components/index.ts",
+    "files": [
+      "components/"
+    ],
+    "keywords": [
+      "bluejsx",
+      "component"
+    ],
+    "dependencies": {
+      "typescript": "^4.3.3"
+    },
+    "bugs": {
+      "url": "https://github.com/bluejsx/basic-components/issues"
+    },
+    "homepage": "https://bluejsx.github.io/",
+    "author": "momijiichigo",
+    "license": "MIT"
+  }
+  
